@@ -8,7 +8,8 @@ Hi there! I'm Dhruv Sharma, a passionate software developer specializing in web 
 - 🌟 **Skills:** ReactJS, Tailwind CSS, Python, Financial Modeling, Machine Learning
 - 🔭 **Current Projects:** Developing a credit risk scorer app using Streamlit and PySpark
 - 🌱 **Learning:** Advanced UI/UX design and integration of machine learning models in web applications
-- 💬 **Ask me about:** Web development, financial modeling, DCF analysis
+- 💬 **Ask me about:** Web development, financial modeling, DCF 
+- ✋ **Portfolio:** [Portfolio](https://dstycoonportfolio.netlify.app/) 
 - 📫 **Contact Me:** [My Email](mailto:dhruv.sharma@iitgn.ac.in)
 
 ## Projects
