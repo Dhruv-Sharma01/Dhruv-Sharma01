@@ -17,7 +17,7 @@ Hi there! I'm Dhruv Sharma, a passionate software developer specializing in web 
 Here are some of the projects I've been working on:
 
 
-### [Lost and Found Web App]((https://lostandfound-frontend.onrender.com/))
+### [Lost and Found Web App](https://lostandfound-frontend.onrender.com/)
 - **Description:** A platform that allows users to report and find lost items.
 - **Technologies Used:** ReactJS, Node.js, Express, MongoDB
 - **Key Highlights:**
