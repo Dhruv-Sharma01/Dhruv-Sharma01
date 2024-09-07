@@ -17,14 +17,7 @@ Hi there! I'm Dhruv Sharma, a passionate software developer specializing in web 
 Here are some of the projects I've been working on:
 
 
-### 1. [DCF Valuation Tool](https://github.com/Dhruv-Sharma01/dcf-valuation-tool)
-- **Description:** A web-based DCF calculator that helps users evaluate the fair value of stocks.
-- **Technologies Used:** ReactJS, Tailwind CSS, yfinance API
-- **Key Highlights:**
-  - Integration with real-time stock data
-  - Detailed analysis and visualization of financial metrics
-
-### 2. [Lost and Found Web App](https://github.com/Dhruv-Sharma01/lost-and-found-app)
+### [Lost and Found Web App](https://github.com/Dhruv-Sharma01/lost-and-found-app)
 - **Description:** A platform that allows users to report and find lost items.
 - **Technologies Used:** ReactJS, Node.js, Express, MongoDB
 - **Key Highlights:**
