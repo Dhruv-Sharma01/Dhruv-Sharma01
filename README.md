@@ -3,12 +3,8 @@
 # Welcome to My GitHub Profile! 👋
 ## About Me
 
-Hi there! I'm Dhruv Sharma, a passionate software developer specializing in web development and financial technology. I enjoy building user-friendly and innovative applications using modern technologies.
+Hi there! I'm Dhruv Sharma, a passionate software developer specializing in web development and machine learning. 
 
-- 🌟 **Skills:** ReactJS, Tailwind CSS, Python, Financial Modeling, Machine Learning
-- 🔭 **Current Projects:** Developing a credit risk scorer app using Streamlit and PySpark
-- 🌱 **Learning:** Advanced UI/UX design and integration of machine learning models in web applications
-- 💬 **Ask me about:** Web development, financial modeling, DCF 
 - ✋ **Portfolio:** [Portfolio](https://dstycoonportfolio.netlify.app/) 
 - 📫 **Contact Me:** [My Email](mailto:dhruv.sharma@iitgn.ac.in)
 
