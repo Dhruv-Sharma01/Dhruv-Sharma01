@@ -3,7 +3,7 @@
 # Welcome to My GitHub Profile! 
 ## About Me
 
-Hi there! I'm Dhruv Sharma, an avid competitive programmer and a passionate software developer. 
+Hi there! I'm Dhruv Sharma, an avid competitive programmer and a passionate software engineer. 
 
 - **Portfolio:** [Portfolio](https://dstycoonportfolio.netlify.app/) 
 - **Contact Me:** [My Email](mailto:dhruv.sharma@iitgn.ac.in)
